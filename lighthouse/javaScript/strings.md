@@ -1,5 +1,5 @@
 # Strings
 
-## Escape Strings
+## Escape Stringss
 
 ![](image/escapingStrings.PNG)
