@@ -1,2 +1,2 @@
-# Notes 
+# Notes
 All sorts of notes
