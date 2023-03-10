@@ -1,10 +1,10 @@
 # Strings
 
-## Escape Stringss
+## Escape Strings
 
 ![](image/escapingStrings.PNG)
 
-## Comparing strings
+## Comparing stringss
 
 A. Case Sensitive
 
