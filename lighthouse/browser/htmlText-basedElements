@@ -1,0 +1,62 @@
+### Divisions & Spans
+
+Divisions, or \<div\>s, and \<span\>s are HTML elements that act as containers solely for styling purposes.
+
+They are simply containers and not semantics.
+
+## DIV
+
+A \<div\> is a block-level element that is commonly used to identify large groupings of content, and which helps to build a web page’s layout and design.
+
+## SPAN
+
+A \<span\>, on the other hand, is an inline-level element commonly used to identify smaller groupings of text within a block-level element.
+
+## Important
+
+---
+
+div and span use class and id attributes to specify styling.
+
+Choose the value of class or id on the basis of content in container and not randomly.
+
+---
+
+![](image/div%26span.PNG)
+
+### Text-Based Elements
+
+- Headings (Block level)
+
+1. Range from <h1\> to <h6\> (big text to small)
+2. Establish hierarchy
+3. help search engines to index and determine the content on a page
+
+- Paragraphs (Block level)
+
+1. Headings are often followed by supporting paragraphs.
+2. Paragraphs are defined using the \<p\> block-level element.
+
+```
+<p> ..... </p>
+```
+
+- Bold Text with Strong (inline)
+
+There are two elements that will bold text for us: the <strong\> and <b\> elements.
+
+choose each element cautiously.
+
+The <strong\> element is semantically used to give strong importance to text, and is thus the most popular option for bolding text.
+
+The <b\> element, on the other hand, semantically means to stylistically offset text, which isn’t always the best choice for text deserving prominent attention.
+
+![](image/bold.PNG)
+
+- Italian with <em\> emphasis (inline element)
+
+The <em\> element is used semantically to place a stressed emphasis on text; it is thus the most popular option for italicizing text.
+
+the <i\> element, is used semantically to convey text in an alternative voice or tone, almost as if it were placed in quotation marks.
+
+![](image/italian.PNG)
