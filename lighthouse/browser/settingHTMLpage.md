@@ -33,3 +33,7 @@ All of the visible content within the web page will fall within the \<body\> ele
   </body>
 </html>
 ```
+
+## Self closing elements
+
+![](image/selfClosingElements.PNG)
