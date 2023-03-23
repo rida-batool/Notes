@@ -1,6 +1,6 @@
 ## setTimeout
 
-setTimout is a function built into JavaScript that runs code after a specified time limit (in milliseconds).
+setTimeout is a function built into JavaScript that runs code after a specified time limit (in milliseconds).
 
 ![](image/setTimeout.PNG)
 
